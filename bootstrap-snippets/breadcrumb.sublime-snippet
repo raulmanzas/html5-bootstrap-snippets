@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<ol class="breadcrumb">
+  <li><a href="${1}">${2}</a></li>
+  <li class="active">${0}</li>
+</ol>
+]]></content>
+	<tabTrigger>breadcrumb</tabTrigger>
+	<description>Default breadcrumb</description>
+</snippet>

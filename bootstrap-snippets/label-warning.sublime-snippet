@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="label label-warning">${1}</span>
+${0}
+]]></content>
+	<tabTrigger>label-warning</tabTrigger>
+	<description>Warning (yellow) bootstrap label.</description>
+</snippet>

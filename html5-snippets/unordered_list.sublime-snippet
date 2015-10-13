@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<ul class="${1}">
+	<li class="${2}">${3}</li>${0}
+</ul>
+]]></content>
+	<tabTrigger>ul</tabTrigger>
+	<description>Basic unordered list.</description>
+</snippet>

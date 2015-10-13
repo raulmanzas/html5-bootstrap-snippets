@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="${1}">
+	<head>
+		<meta charset="utf-8">
+		<title>${2}</title>${0}
+	</head>
+	<body>
+		
+	</body>
+</html>
+]]></content>
+	<tabTrigger>html5</tabTrigger>
+	<description>Basic HTML5 structure.</description>
+</snippet>

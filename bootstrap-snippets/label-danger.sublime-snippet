@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="label label-danger">${1}</span>
+${0}
+]]></content>
+	<tabTrigger>label-danger</tabTrigger>
+	<description>Danger (red) bootstrap label.</description>
+</snippet>

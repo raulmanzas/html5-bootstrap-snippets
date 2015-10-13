@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group-vertical" role="group" aria-label="...">
+  ${0}
+</div>
+]]></content>
+	<tabTrigger>button-group-vertical</tabTrigger>
+	<description>Vertical button group. </description>
+</snippet>

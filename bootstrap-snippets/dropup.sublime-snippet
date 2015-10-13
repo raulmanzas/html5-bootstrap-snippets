@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<div class="dropup">
+  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  	<!-- Button text -->
+    ${1}
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+    <li><a href="${2}">${3}</a></li>
+    ${0}
+  </ul>
+</div>
+]]></content>
+	<tabTrigger>dropup</tabTrigger>
+	<description>Default dropup button.</description>
+</snippet>

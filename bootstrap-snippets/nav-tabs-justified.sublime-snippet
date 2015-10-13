@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<ul class="nav nav-tabs nav-justified">
+  <li role="presentation" class="active"><a href="${1}">${2}</a></li>
+  ${0}
+</ul>
+]]></content>
+	<tabTrigger>nav-tabs-justified</tabTrigger>
+	<description>Justified nav-tabs. </description>
+</snippet>

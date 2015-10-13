@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<li role="separator" class="divider"></li>
+${0}
+]]></content>
+	<tabTrigger>divider</tabTrigger>
+	<description>Dropdown / Dropup line divider.</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<ul class="list-group">
+  <li class="list-group-item">${1}</li>
+  ${0}
+</ul>
+]]></content>
+	<tabTrigger>list-group</tabTrigger>
+	<description>Default bootstrap list-group</description>
+</snippet>

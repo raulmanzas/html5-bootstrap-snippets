@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button type="button" class="btn btn-default navbar-btn">${1}</button>
+${0}
+]]></content>
+	<tabTrigger>button</tabTrigger>
+	<description>Default bootstrap button.</description>
+</snippet>

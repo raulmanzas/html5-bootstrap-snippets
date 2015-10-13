@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-toolbar" role="toolbar" aria-label="...">
+  ${0}
+</div>
+]]></content>
+	<tabTrigger>button-toolbar</tabTrigger>
+	<description>Default button toolbar. </description>
+</snippet>

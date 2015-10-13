@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="label label-success">${1}</span>
+${0}
+]]></content>
+	<tabTrigger>label-success</tabTrigger>
+	<description>Success (green) bootstrap label.</description>
+</snippet>

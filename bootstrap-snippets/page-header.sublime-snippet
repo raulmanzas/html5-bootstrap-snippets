@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="page-header">
+	${0}
+</div>
+]]></content>
+	<tabTrigger>page-header</tabTrigger>
+	<description>Default bootstrap header.</description>
+</snippet>

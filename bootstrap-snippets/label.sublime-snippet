@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="label label-default">${1}</span>
+${0}
+]]></content>
+	<tabTrigger>label</tabTrigger>
+	<description>Default bootstrap label.</description>
+</snippet>

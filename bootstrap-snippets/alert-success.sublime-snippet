@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="alert alert-success" role="alert">${1}</div>
+${0}
+]]></content>
+	<tabTrigger>alert-success</tabTrigger>
+	<description>Succes alert (green).</description>
+</snippet>

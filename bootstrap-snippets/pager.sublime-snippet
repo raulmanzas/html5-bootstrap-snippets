@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<nav>
+  <ul class="pager">
+    <li><a href="${1}">${2}</a></li>
+    <li><a href="${3}">${4}</a></li>
+    ${5}
+  </ul>
+</nav>
+]]></content>
+	<tabTrigger>pager</tabTrigger>
+	<description>Default pager.</description>
+</snippet>
